@@ -1,3 +1,4 @@
 java爬虫项目
 包含爬虫太原科技大学教务系统。在cn.qlq.craw.JsoupCrawJWXT包下
 包含爬虫百度百科关于python的关键词条。在cn.qlq.craw.JsoupBaike包下
+项目源码是自己交实习时候提交的项目源码。里面包含了一个bat批处理文件编译java且执行爬虫main函数
